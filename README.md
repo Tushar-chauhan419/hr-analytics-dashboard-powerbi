@@ -46,7 +46,7 @@ This interactive **HR Analytics Dashboard**, built using Microsoft Power BI, pro
 
 ## 🙋 Contact
 **Tushar Chauhan**  
-📧 Email: *youremail@example.com*  
+📧 Email: tusharchauhan400@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/tushar-chauhan419)  
 🔗 [GitHub](https://github.com/Tushar-chauhan419)
 
